@@ -1,0 +1,8 @@
+# Any kind of build directories
+build*/
+# KDevelop project files
+*.kdev4
+# Any kind of temporary(?) files
+*~
+# Vim swapfiles
+*.swp
