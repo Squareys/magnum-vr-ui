@@ -3,7 +3,7 @@ Magnum VR UI
 
 *Magnum::Ui + Leap Motion + Oculus Rift VR*
 
-![magnum-vr-ui.gif](magnum-vr-ui.gif)
+![magnum-vr-ui.gif](img/magnum-vr-ui.gif)
 
 Mix of [Magnum Ui Gallery](http://magnum.graphics/showcase/magnum-ui-gallery/),
 [Magnum Oculus VR example](http://doc.magnum.graphics/magnum/examples-ovr.html) and
